@@ -10,14 +10,14 @@ The app prompts the user to select a department and then uses that information t
 3. Run the Email class in the com.example.email_app package
 4. Follow the prompts to enter your first name, last name, and department.
 5. The generated email and password will be displayed in the console
-##Dependencies
+## Dependencies
 1. Java 8 or later
 2. IntelliJ IDEA
 
-##Built With
+## Built With
 1. Java
 2. IntelliJ IDEA
 
-##Acknowledgments
+## Acknowledgments
 1. Stack Overflow
 2. Youtube
